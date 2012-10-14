@@ -1,0 +1,16 @@
+{
+  "name": "indexof",
+  "repo": "timoxley/indexof",
+  "description": "Get index of a DOM element within its parent.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {
+    "component/domify": "*",
+    "component/assert": "*"
+  },
+  "scripts": [
+    "index.js"
+  ]
+}
+
