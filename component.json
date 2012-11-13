@@ -7,7 +7,7 @@
   "dependencies": {},
   "development": {
     "component/domify": "*",
-    "component/assert": "*"
+    "timoxley/assert": "*"
   },
   "scripts": [
     "index.js"
