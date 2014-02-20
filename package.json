@@ -1,0 +1,7 @@
+{
+  "name": "timoxley-indexof",
+  "description": "Get index of a DOM element within its parent.",
+  "version": "0.0.2",
+  "keywords": [],
+  "dependencies": {}
+}
